@@ -1,0 +1,2 @@
+# Frauth
+Facebook Rails Authentication
